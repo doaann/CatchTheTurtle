@@ -26,7 +26,7 @@ Amacınız, ekranda rastgele hareket eden kaplumbağaya **30 saniye içinde** ol
 ## 🚀 Kurulum ve Çalıştırma
 1. Bu projeyi bilgisayarınıza indirin veya klonlayın:
     ```bash
-    git clone https://github.com/kullanici-adi/turtle-click-game.git
+    git clone https://github.com/doaann/turtle-click-game.git
     cd turtle-click-game
     ```
 
